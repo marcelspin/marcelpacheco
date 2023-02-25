@@ -45,7 +45,7 @@ Icones interativos optamos por colocar parte superior direita com icones adicion
 
 <hr>
 
-## Glassmorphism 
+## Glassmorfismo
 <p align = "justify"> Neste Projetos optamos usar o Glassmorfismo é uma tendencia em nossa one-page Basicamente, o glassmorfismo se trata de representar algumas formas na interface com um efeito de vidro, reduzindo a opacidade do elemento e desfocando quaisquer outros elementos que estão ao fundo dessa forma, criando um aspecto visual bem atraente, focamos nossa pagina destaque glassmorfismo na navbar (cabeçalho site) e também nossa apresentação, no Titulo "Olá, me chamo Marcel". </p>
 
 <p float="left" align="center">
