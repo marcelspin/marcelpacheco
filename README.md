@@ -1,7 +1,7 @@
-# **Portifólio** 
+# Portifólio 
 
 ## Estrutura Básica
-<p align = "justify"> Neste Portifólio trabalhamos com supervisão e auxilio guiado nossa Tutora Profª Tauana Auler, desenvolvemos nossas habilidades e novos desafios foram apreendidos durante todo curso, site desenvolvido foi _one-page_ baseamos nosso layout pelo "PureRef" como quadro de referências ajudando nas cores, tipografia, modelos ja pesquisados e disponiveis na web, melhorando nosso projeto.
+<p align = "justify"> Neste Portifólio trabalhamos com supervisão e auxilio guiado nossa Tutora Profª Tauana Auler, desenvolvemos nossas habilidades e novos desafios foram apreendidos durante todo curso, site desenvolvido foi one-page baseamos nosso layout pelo "PureRef" como quadro de referências ajudando nas cores, tipografia, modelos ja pesquisados e disponiveis na web, melhorando nosso projeto.
 Usamos bastante sections para dividir cada sessão do nosso conteúdo, linhas e colunas em cada situação necessaria que havia demanda, exemplificando na sessão " Portifólio" criamos primeira linha com quatro colunas para cada card, ja segunda linha criamos mais três colunas para cards restantes totalizando sete cards.
 Icones interativos optamos por colocar parte superior direita com icones adicionais (cartão virtual), usando todas ferramentas e conhecimentos adquiridos em HTML, CSS e Java. Segue imagens abaixo.</p>
 
@@ -28,7 +28,7 @@ Icones interativos optamos por colocar parte superior direita com icones adicion
 
 ## Nossos demais Projetos 
 
-<p align = "justify"> Aqui veremos nossos demais projetos desenvolvidos na maisPraTi " Desenvolvimento Front End: do zero ao primeiro site " desde começo ate nosso projeto final, demonstrando nossa evolução e aprendizado constante com suporte supervisionada da Profª Tau. </p>
+<p align = "justify"> Aqui veremos nossos demais projetos desenvolvidos na +PraTi " Desenvolvimento Front End: do zero ao primeiro site " desde começo até nosso projeto final, demonstrando nossa evolução e aprendizado constante com suporte supervisionada da Profª Tau. </p>
 
 <p float="left" align="center">
 <img height="250" src="https://user-images.githubusercontent.com/115879742/221382529-a87ae1df-b479-4a37-a4e2-cb0d44787bd8.png ">
@@ -46,7 +46,7 @@ Icones interativos optamos por colocar parte superior direita com icones adicion
 <hr>
 
 ## Glassmorfismo
-<p align = "justify"> Neste Projetos optamos usar o Glassmorfismo é uma tendencia em nossa one-page Basicamente, o glassmorfismo se trata de representar algumas formas na interface com um efeito de vidro, reduzindo a opacidade do elemento e desfocando quaisquer outros elementos que estão ao fundo dessa forma, criando um aspecto visual bem atraente, focamos nossa pagina destaque glassmorfismo na navbar (cabeçalho site) e também nossa apresentação, no Titulo "Olá, me chamo Marcel". </p>
+<p align = "justify"> Neste Projetos optamos usar o estilo do Glassmorfismo é uma tendência em nossa one-page basicamente, o glassmorfismo se trata de representar algumas formas na interface com um efeito de vidro, reduzindo a opacidade do elemento e desfocando quaisquer outros elementos que estão ao fundo dessa forma, criando um aspecto visual bem atraente, focamos nossa pagina destaque glassmorfismo na navbar (cabeçalho site) e também nossa apresentação, no Titulo "Olá, me chamo Marcel". </p>
 
 <p float="left" align="center">
 <img height="250" src="https://user-images.githubusercontent.com/115879742/221377635-fc1e5142-c804-49f4-97e2-8cceaa803dbc.png">
