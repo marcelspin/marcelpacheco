@@ -1,0 +1,43 @@
+
+#linha {
+	background: gold;
+	text-align: justify-all;
+	padding: 20px;
+	margin-bottom: 50px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+#linhaa {
+	text-align: justify-all;
+	padding: 20px;
+	margin-bottom: 50px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+#top1{
+	font-family: verdana;
+	background: gold;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
+
+#top2{
+	background: gold;
+	text-align: center;
+	padding:20px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	width: 80%;
+	margin: auto;
+
+}

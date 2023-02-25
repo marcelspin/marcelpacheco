@@ -1,0 +1,64 @@
+
+img {
+display:block; 
+margin-left: auto;
+margin-right: auto;
+background-blend-mode: multiply;
+border-color: whitesmoke;
+border-style: solid;
+margin-top: 80 px;
+margin: auto;
+
+}
+
+P {
+display: block;
+margin-top: 40px;
+margin-left: auto;
+margin-right:auto;
+align-content: center;
+text-align: justify;
+text-indent: 3ch;
+width: 400px;
+height: 40px;
+}
+
+h2 {
+text-align: center;
+color:black;
+}	
+
+.p {
+display: block;
+margin-top: 40px;
+margin-left: auto;
+margin-right:auto;
+border-radius: 5px;
+text-align: center;
+text-indent: 3ch;
+color: white;
+background-color:silver;
+width: 70%;
+margin: auto;
+border-color: whitesmoke;
+border-style: solid;
+border-width: 2px;
+}	
+
+.r {
+display: block;
+margin-top: 40px;
+margin-left: auto;
+margin-right:auto;
+align-content: center;
+text-align: justify-all;
+text-indent: 3ch;
+width: 70%;
+margin: auto;
+color: ghostwhite;
+}
+
+body {
+background-position:center;
+/*margin-top: 60px;*/
+}

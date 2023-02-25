@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap'); 
+
+body{
+	font-family: Ubuntu;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size:cover;
+	margin:0;
+	position: relative;
+
+
+}
+.frame{
+	position: absolute;
+	background-color: #737373;
+	top: 50%;
+	left: 50%;
+	width: 400px;
+	height: 400px;
+	margin-top: -200px;
+	margin-left:-200px;
+	box-shadow: 8px 16px 16px rgba(0, 0, 0, 0.6);
+	border-radius: 20px;
+	background: linear-gradient(#A34D81,#E69877);
+
+}
+
+.frame, .card{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.vireme{
+	position: absolute;
+	top: 30%;
+	left: 77%;
+	font-size: 20px;
+	transform: rotate(-90deg);
+	color: rgba(255,255, 255, 0.2);
+}
+
+.front h1{
+	font-family: Satisfy, cursive;
+	font-size: 100px;
+	margin: 16px 80px;
+	color: white;
+
+
+}
+
+/* faz card virar*/
+.card:hover .flip{
+	transform: rotateX(180deg) translate3d(0, 0, 0);
+	box-shadow: 8px -10px 15px 0 rgba(0, 0, 0, 0.5);
+	border-radius: 20px;
+}
+.flip {
+	transform-style: preserve-3d;
+	transition: all 0.7s ease-in-out;
+	perspective: 1000px;
+}
+
+.front, .back{
+	-webkit-backface-visibility:hidden;
+	width: 100%;
+	height: 100%;
+	/*colocar gradiente aqui */
+	background: #61233563;
+	border-radius: 20px;
+	border-color: transparent;
+
+}
+
+.card .back{
+	transform: rotateX(-180deg);
+	position: absolute;
+	top: 0;
+	left: 0;
+
+}
+.back{
+	letter-spacing: 2px;
+	text-align: center;
+	border-radius: 20px;
+}
+.back h2{
+	font-size: 25px;
+	margin: 9px;
+	color: black;
+
+}
+.back h3{
+	color: rgba(255, 255, 255, 0.7);
+	font-family: satisfy,cursive;
+	font-weight: 400;
+	font-size: 32px;
+	margin: 32px;
+
+}
+
+img{
+	width: 42px;
+}
+img:hover {
+	width: 46px;
+	cursor: pointer;
+
+}
+
